@@ -1,0 +1,49 @@
+Platform,Decision,Evidence class,4.1 awarded,Interpretation
+Amazon Mechanical Turk,Account suspension,0,0,No coded mention
+Amazon Mechanical Turk,Task rejection,0,0,No coded mention
+Amazon Mechanical Turk,Nonpayment,0,0,No coded mention
+Appen,Account suspension,0,0,No coded mention
+Appen,Task rejection,0,0,No coded mention
+Appen,Nonpayment,0,0,No coded mention
+Clickworker,Account suspension,0,0,No coded mention
+Clickworker,Task rejection,0,0,No coded mention
+Clickworker,Nonpayment,1,0,Safeguard only
+ComeUp,Account suspension,0,1,No coded mention
+ComeUp,Task rejection,0,1,No coded mention
+ComeUp,Nonpayment,1,1,Safeguard only
+Creative Words,Account suspension,0,1,No coded mention
+Creative Words,Task rejection,0,1,No coded mention
+Creative Words,Nonpayment,0,1,No coded mention
+Elharefa,Account suspension,0,1,No coded mention
+Elharefa,Task rejection,2,1,Appeal or review
+Elharefa,Nonpayment,1,1,Safeguard only
+Fiverr,Account suspension,0,1,No coded mention
+Fiverr,Task rejection,2,1,Appeal or review
+Fiverr,Nonpayment,1,1,Safeguard only
+Freelancer,Account suspension,0,0,No coded mention
+Freelancer,Task rejection,0,0,No coded mention
+Freelancer,Nonpayment,0,0,No coded mention
+Microworkers,Account suspension,0,0,No coded mention
+Microworkers,Task rejection,0,0,No coded mention
+Microworkers,Nonpayment,0,0,No coded mention
+PeoplePerHour,Account suspension,0,1,No coded mention
+PeoplePerHour,Task rejection,0,1,No coded mention
+PeoplePerHour,Nonpayment,0,1,No coded mention
+Prolific,Account suspension,0,0,No coded mention
+Prolific,Task rejection,0,0,No coded mention
+Prolific,Nonpayment,1,0,Safeguard only
+Remotasks,Account suspension,2,0,Appeal or review
+Remotasks,Task rejection,0,0,No coded mention
+Remotasks,Nonpayment,0,0,No coded mention
+SoyFreelancer,Account suspension,0,1,No coded mention
+SoyFreelancer,Task rejection,0,1,No coded mention
+SoyFreelancer,Nonpayment,1,1,Safeguard only
+Terawork,Account suspension,0,1,No coded mention
+Terawork,Task rejection,1,1,Safeguard only
+Terawork,Nonpayment,1,1,Safeguard only
+Translated,Account suspension,2,1,Appeal or review
+Translated,Task rejection,0,1,No coded mention
+Translated,Nonpayment,1,1,Safeguard only
+Upwork,Account suspension,0,0,No coded mention
+Upwork,Task rejection,0,0,No coded mention
+Upwork,Nonpayment,0,0,No coded mention
