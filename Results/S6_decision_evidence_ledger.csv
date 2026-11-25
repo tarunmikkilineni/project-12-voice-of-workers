@@ -1,0 +1,18 @@
+Platform,Decision,Feature,Page,Evidence
+Remotasks,Account suspension,Appeal route,31,Introduced deactivation support for disciplinary challenges.
+Remotasks,Account suspension,Reason or explanation route,31,Deactivation support also describes obtaining further explanations.
+Translated,Account suspension,Access after lockout,18,Deactivated workers can access the published procedure.
+Translated,Account suspension,Appeal route,18,The report describes appeals by email and access to policy information after deactivation.
+Clickworker,Nonpayment,Payment protection,12,The report identifies escrow among protections for completed work.
+ComeUp,Nonpayment,Payment protection,12,The report identifies escrow among protections for completed work.
+Elharefa,Nonpayment,Payment protection,12,The report identifies escrow among protections for completed work.
+Fiverr,Nonpayment,Payment protection,25,The Fairwork worker profile describes the platform's escrow facility.
+Prolific,Nonpayment,Payment protection,12,The report identifies escrow among protections for completed work.
+SoyFreelancer,Nonpayment,Payment protection,12,The report identifies escrow among protections for completed work.
+Terawork,Nonpayment,Payment protection,12,The report identifies escrow among protections for completed work.
+Translated,Nonpayment,Payment protection,12,The report identifies escrow among protections for completed work.
+Elharefa,Task rejection,Appeal route,17,The report describes a dispute procedure for rejected work.
+Elharefa,Task rejection,Correction or remedy option,30,Workers may revise or redo delivered work at least once upon the client’s request.
+Elharefa,Task rejection,Named review or mediation actor,17,The company team mediates disputes over rejected work.
+Fiverr,Task rejection,Appeal route,14,Fairwork identifies customer support and order dispute instructions for work rejections.
+Terawork,Task rejection,Correction or remedy option,31,Workers can request at least one revision of rejected work.
