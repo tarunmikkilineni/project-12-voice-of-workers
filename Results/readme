@@ -1,1 +1,31 @@
+# Project 12 results
+
+This folder contains the results for **Worker Voice in Platform Governance**, a secondary analysis of the 2023 and 2025 Fairwork Cloudwork Ratings reports. Open the [executed notebook](../project-12-voice-of-workers.ipynb) to see the analysis and its saved outputs.
+
+## Results by research question
+
+Project 12 has **four research questions**. The files labeled **S1–S12** are supplementary tables, with three supporting each question.
+
+| Research question | Main exhibit | Supplementary tables |
+| --- | --- | --- |
+| **RQ1** — Changes in appeal procedures across the two editions | Figure 1 · [PDF](Figure_1_paired_ratings_and_changes.pdf) · [PNG](Figure_1_paired_ratings_and_changes.png) · [Plot data](Figure_1_paired_ratings_and_changes.csv) | [S1 Sample and transitions](S1_sample_and_transitions.csv), [S2 Appeal change ledger](S2_appeal_change_ledger.csv), [S3 Appeal change features](S3_appeal_change_features.csv) |
+| **RQ2** — Appeal evidence by platform and decision type | Figure 2 · [PDF](Figure_2_decision_specific_evidence.pdf) · [PNG](Figure_2_decision_specific_evidence.png) · [Plot data](Figure_2_decision_specific_evidence.csv) | [S4 Decision-type coverage](S4_decision_type_coverage.csv), [S5 Within-platform contrasts](S5_within_platform_contrasts.csv), [S6 Decision evidence ledger](S6_decision_evidence_ledger.csv) |
+| **RQ3** — Worker-reported barriers and alignment with documented procedures | [Table 1 Worker-account evidence](Table_1_worker_account_evidence.csv) | [S7 Evidence alignment](S7_evidence_alignment.csv), [S8 Barriers by context](S8_barrier_by_context.csv), [S9 Survey context](S9_survey_context.csv) |
+| **RQ4** — Due process and recognition of organizing rights | Figure 3 · [PDF](Figure_3_individual_and_collective_voice.pdf) · [PNG](Figure_3_individual_and_collective_voice.png) · [Plot data](Figure_3_individual_and_collective_voice.csv) | [S10 Platform indicators](S10_voice_indicators_by_platform.csv), [S11 Indicator sensitivity](S11_voice_definition_sensitivity.csv), [S12 Recognition evidence ledger](S12_recognition_evidence_ledger.csv) |
+
+## Findings at a glance
+
+- **RQ1.** All 14 platforms rated in both editions kept the same Fairwork 4.1 award status. The 2025 change log records appeal-related changes for five of them.
+- **RQ2.** Among the 16 platforms in the 2025 roster, the coded passages describe appeal or review evidence for two account-suspension cases, two task-rejection cases, and zero nonpayment cases at the platform-by-decision level. Fairwork separately awarded its overall 4.1 threshold to eight platforms.
+- **RQ3.** Four of the six selected observations had overlapping or co-reported procedures. The accounts illustrate reported barriers, and none was independently matched to the policy in force at the time.
+- **RQ4.** Five platforms had both a 4.1 award and documented recognition of organizing rights. Three had the award only, two had documented recognition only, and six had neither documented.
+
+## Sources and reproducibility
+
+- [Source manifest](source_manifest.csv) lists the report URLs, PDF page counts, and SHA-256 checksums.
+- [Extracted ratings](report_extracted_ratings.csv) and [worker-account coding](worker_account_coding.csv) contain the records used in the analysis.
+- [Evidence source audit](evidence_source_audit.csv) records source checks, coding decisions, and corrections.
+- [Requirements](requirements.txt) and [run environment](run_environment.json) list the software used for the verified rerun.
+
+Run all cells in the notebook to regenerate `project12_fairwork_results.zip`. The results describe the evidence reported in the two Fairwork editions. Independent recoding and adjudication are pending.
 
