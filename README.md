@@ -1,5 +1,5 @@
 # project-12-voice-of-workers
-# Project 12 — Worker Voice in Cloudwork Platform Governance
+# Project 12 — Worker Voice in Platform Governance
 
 This project analyzes the 2023 and 2025 Fairwork Cloudwork Ratings reports.
 It examines documented appeal procedures, barriers described in worker
